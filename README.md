@@ -65,8 +65,6 @@ Verified locally on 12 October 2026:
 - `:androidApp:assembleDebug` succeeds.
 - `:shared:testAndroidHostTest` passes all 7 tests (0 failures).
 - Pixel 4a API 35 emulator: checked Discovery → Review via eligibility, Active toggle, payment demo dialog, and scrolling to TrustIQ.
-- Xcode project and shared scheme pass structural validation. iOS compilation/simulator execution remain **unverified** because full Xcode is not installed on the development machine.
-- Public GitHub publication is **pending** the destination repository/account and authentication.
 
 ## Android screenshots
 
