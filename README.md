@@ -8,7 +8,7 @@ Requirements: Android Studio, JDK 17+, Android SDK 36, and an emulator/device ru
 
 Open the root folder in Android Studio, sync Gradle, and run **androidApp**. From a terminal:
 
-```sh
+``sh
 ./gradlew :androidApp:assembleDebug
 ./gradlew :androidApp:installDebug
 ```
